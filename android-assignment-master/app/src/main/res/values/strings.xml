@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">KisanHubTest</string>
+    <string name="failure_message">Unable to get rainfall data</string>
+    <string name="fetch_weather">Click to Fetch Weather</string>
+
+    <string-array name="location_list">
+        <item>UK</item>
+        <item>England</item>
+        <item>Scotland</item>
+        <item>Wales</item>
+    </string-array>
+
+    <string-array name="metric_list">
+        <item>Tmax</item>
+        <item>Tmin</item>
+        <item>Rainfall</item>
+    </string-array>
+
+    <string name="pref_file">Prefs</string>
+    <string name="no_internet">No offline data available. Please check internet connectivity</string>
+</resources>
