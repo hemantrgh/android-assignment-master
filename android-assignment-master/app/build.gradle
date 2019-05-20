@@ -61,13 +61,8 @@ dependencies {
     androidTestImplementation 'androidx.test.espresso:espresso-core:3.1.0'
     androidTestImplementation 'androidx.test.espresso:espresso-contrib:3.1.0'
     androidTestImplementation 'androidx.test.espresso:espresso-intents:3.1.0'
-    //androidTestImplementation 'androidx.test:runner:1.1.0'
-    //androidTestImplementation 'androidx.test:rules:1.1.0'
     androidTestImplementation 'androidx.test.ext:junit:1.1.0'
 
-//    implementation "com.google.dagger:dagger:$dagger2_version"
-//    kapt "com.google.dagger:dagger-compiler:$dagger2_version"
-//    compileOnly "org.glassfish:javax.annotation:3.1.1"
 
     implementation "androidx.lifecycle:lifecycle-extensions:$lifecycle_version"
     kapt "androidx.lifecycle:lifecycle-compiler:$lifecycle_version"
